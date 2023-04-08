@@ -5,5 +5,5 @@
 
 - 🌱 I’m currently working with ****
 
-- 📫 How to reach me **chel.castel@aol.com**
+- 📫 How to reach me **chelseaanne.castelli@gmail.com**
 
