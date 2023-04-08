@@ -3,7 +3,7 @@
 <h3 align="center">A self-taught developer based out of NYC 🏙</h3>
 
 
-- 🌱 I’m currently working with **Python, Django, & React**
+- 🌱 I’m currently working with ****
 
 - 📫 How to reach me **chel.castel@aol.com**
 
